@@ -56,6 +56,7 @@ public class pattern
 }
 ```
 ## Output:
+![Screenshot (27)](https://github.com/TejaswiniGugananthan/C-Pattern/assets/121222763/78ed2660-0d69-4e61-a85e-ac994bc95180)
 
 ## Result:
 Thus the c# code for a pascal's traingle was executed successfully.
